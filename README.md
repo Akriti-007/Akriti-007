@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akriti Verma</h1>
-<h3 align="center">I am web developer currently learning and exploring new stuffs.</h3>
+<h3 align="center">I am a web developer currently learning and exploring new stuffs.</h3>
 
 
 
